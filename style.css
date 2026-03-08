@@ -85,3 +85,7 @@ td, th {
     text-align: center;
     font-weight: bold;
 }
+
+.error {
+    color: #ff6b6b;
+}
